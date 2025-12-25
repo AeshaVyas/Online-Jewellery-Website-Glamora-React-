@@ -26,25 +26,6 @@ The project focuses on creating a clean UI, smooth user experience, and a scalab
 
 ---
 
-## ⚙️ Installation & Setup
-
-Follow these steps to run the project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/Online-Jewellery-Website-Glamora-React.git
-
-# Navigate to project folder
-cd Online-Jewellery-Website-Glamora-React
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-
----
-
 🎯 Purpose of the Project
 
 This project was developed as part of an academic / internship-oriented learning experience to:
@@ -77,3 +58,4 @@ Final Year Student
 
 🔗 LinkedIn: (https://www.linkedin.com/in/aesha-vyas-251805377/)
 📧 Email: (vyasaesha62@gmail.com)
+
